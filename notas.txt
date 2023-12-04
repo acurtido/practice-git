@@ -12,3 +12,9 @@ git remote
 
 git pull
 git push
+
+
+como subir un repo existen
+1- git remote add origin [URL] 
+2- git branch -M [nombre-branch] // recomendado main
+3- git push -u origin main (al ser la primera vez)
